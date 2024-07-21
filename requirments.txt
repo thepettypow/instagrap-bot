@@ -1,0 +1,11 @@
+certifi==2024.7.4
+charset-normalizer==3.3.2
+idna==3.7
+instaloader==4.12
+logging==0.4.9.6
+pyaes==1.6.1
+pyasn1==0.6.0
+requests==2.32.3
+rsa==4.9
+Telethon==1.36.0
+urllib3==2.2.2
